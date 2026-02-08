@@ -20,7 +20,7 @@
 <h3 align="center">🛠️ Core Technology Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,shopify,git,github,vercel&perline=8" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vercel&perline=8" alt="Skill Icons" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
   </a>
   &nbsp;
   <a href="https://x.com/Solankiyash2001">
-    <!-- <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /> -->
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
   <a href="mailto:yashsolanki1622@gmail.com">
