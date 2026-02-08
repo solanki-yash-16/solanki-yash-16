@@ -33,7 +33,7 @@
   </a>
   &nbsp;
   <a href="https://x.com/Solankiyash2001">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+    <!-- <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /> -->
   </a>
   &nbsp;
   <a href="mailto:yashsolanki1622@gmail.com">
